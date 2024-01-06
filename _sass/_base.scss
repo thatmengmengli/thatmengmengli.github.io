@@ -638,20 +638,20 @@ footer.sticky-bottom {
   }
 
   h2 {
-    margin-bottom: 1rem;
+    margin-bottom: 0rem;
 
     span {
-      font-size: 1.5rem;
+      font-size: 0rem;
     }
   }
 
   h2.bibliography {
-    color: var(--global-divider-color);
-    border-top: 1px solid var(--global-divider-color);
-    padding-top: 1rem;
-    margin-top: 2rem;
+    color: var(--global-bg-color);
+    border-top: 0px solid var(--global-bg-color);
+    padding-top: 0rem;
+    margin-top: 0rem;
     margin-bottom: -2rem;
-    text-align: right;
+    // text-align: right;
   }
 
   ol.bibliography {
@@ -663,9 +663,9 @@ footer.sticky-bottom {
       margin-bottom: 1rem;
 
       .preview {
-        width: 100%;
-        min-width: 80px;
-        max-width: 200px;
+        // width: 100%;
+        // min-width: 80px;
+        // max-width: 200px;
       }
 
       .abbr {
@@ -695,6 +695,7 @@ footer.sticky-bottom {
 
       .title {
         font-weight: bolder;
+        width: 125%;
       }
 
       .author {
