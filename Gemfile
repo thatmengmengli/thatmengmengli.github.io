@@ -16,7 +16,8 @@ group :jekyll_plugins do
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-    gem 'mini_racer'
+    gem 'kramdown-parser-gfm'
+    # gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
 end
