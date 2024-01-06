@@ -1,14 +1,14 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Jongeneel":
+  - firstname: ["Wouter", "W."]
+    url: https://wjongeneel.nl/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Kuhn":
+  - firstname: ["Daniel", "D."]
+    url: https://people.epfl.ch/daniel.kuhn
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Sutter":
+  - firstname: ["Tobias", "T."]
+    url: https://sites.google.com/view/suttert/
 
 "Bach": 
   - firstname: ["Johann Sebastian", "J. S."]
