@@ -29,7 +29,13 @@ $grey-900:            #212529;
 
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
-
+$divider-color-default: #424246 !default;
+$tardis-dark: #00060b !default;
+$tardis-dark-dim: #00203c !default;
+$tardis-divider: lighten($tardis-dark,25%);
+$tardis-light-blue: #0092ff !default;
+$tardis-light: lighten($tardis-light-blue, 25%);
+$tardis-medium: #6f8ea9 !default;
 // Theme colors
 
 $code-bg-color-light:     rgba($purple-color, 0.05);
