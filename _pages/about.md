@@ -6,8 +6,8 @@ subtitle:  #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: profile_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: profile_pic.png
+  image_circular: true #false # crops the image to make it circular
   more_info: >
 
 news: false  # includes a list of news items
@@ -16,10 +16,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi! I am a third-year PhD student at [EPFL](www.epfl.ch) advised by Prof. [Daniel Kuhn](https://people.epfl.ch/daniel.kuhn). Prior to my doctoral journey, I studied math at EPFL, NYU Shanghai, and NYU Courant.
+Hi! I am a PhD student at [EPFL](www.epfl.ch) advised by Prof. [Daniel Kuhn](https://people.epfl.ch/daniel.kuhn). Prior to my doctoral journey, I studied math at EPFL, NYU Shanghai, and NYU Courant.
 
-I am interested in understanding adaptive learning and stochastic control, motivated by applications in finance, healthcare, and sustainability.
+My research interests lie broadly in the interplay of statistics and optimization. I am particularly interested in **sequential decision making**, motivated by applications in finance and healthcare.
 
 📧 [mengmeng.li@epfl.ch](mailto:mengmeng.li@epfl.ch)
 <br style="line-height: 10px" />
-📡 [College of Management of Technology](https://www.epfl.ch/schools/cdm/), EPFL, Switzerland
+<!-- 📡 [College of Management of Technology](https://www.epfl.ch/schools/cdm/), EPFL, Switzerland -->
