@@ -22,4 +22,4 @@ My research interests lie broadly in the interplay of statistics and optimizatio
 
 📧 [mengmeng.li@epfl.ch](mailto:mengmeng.li@epfl.ch)
 <br style="line-height: 10px" />
-<!-- 📡 [College of Management of Technology](https://www.epfl.ch/schools/cdm/), EPFL, Switzerland -->
+📡 [College of Management of Technology](https://www.epfl.ch/schools/cdm/), EPFL, Switzerland
