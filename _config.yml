@@ -116,7 +116,7 @@ cronitor_analytics:  # cronitor RUM analytics site ID (format: XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
-google_analytics: G-G76RE8D9X5
+# google_analytics: G-G76RE8D9X5
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
