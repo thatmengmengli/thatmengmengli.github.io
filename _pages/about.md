@@ -6,8 +6,8 @@ subtitle:  #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: profile.png
-  image_circular: true #false # crops the image to make it circular
+  image: l4dc.jpg
+  image_circular: false # crops the image to make it circular
   more_info: >
 
 news: false  # includes a list of news items
