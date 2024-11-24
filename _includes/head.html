@@ -1,17 +1,4 @@
 <!-- Metadata, OpenGraph and Schema.org -->
-<!-- {% include metadata.html %}
-{% if site.google_analytics and jekyll.environment == 'production' %}
-{% include analytics.html %}
-{% endif %} -->
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-G76RE8D9X5"></script>
-<script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
-
-    gtag('config', 'G-G76RE8D9X5');
-</script>
 <!-- Bootstrap & MDB -->
 <link rel="stylesheet" href="{{ '/assets/css/bootstrap.min.css' | relative_url | bust_file_cache }}">
 <!-- <link rel="stylesheet" href="{{ '/assets/css/mdb.min.css' | relative_url | bust_file_cache }}"> -->
@@ -56,3 +43,12 @@
         media="none" id="highlight_theme_dark" />
     <script src="{{ '/assets/js/theme.js' | relative_url | bust_file_cache }}"></script>
     {% endif %}
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-G76RE8D9X5"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-G76RE8D9X5');
+    </script>
