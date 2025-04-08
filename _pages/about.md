@@ -29,4 +29,4 @@ My research interests lie broadly in the interplay of statistics and optimizatio
 
 📧 [mengmeng.li@epfl.ch](mailto:mengmeng.li@epfl.ch)
 <br style="line-height: 10px" />
-📡 [Risk and Analytics Chair](https://www.epfl.ch/labs/rao/), EPFL, Switzerland
+📡 [Risk Analytics and Optimization Chair](https://www.epfl.ch/labs/rao/), EPFL, Switzerland
