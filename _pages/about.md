@@ -10,7 +10,13 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
 
-news: false  # includes a list of news items
+announcements:
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 1 # leave blank to include all the news in the `_news` folder
+
+
+# news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
@@ -23,4 +29,4 @@ My research interests lie broadly in the interplay of statistics and optimizatio
 
 📧 [mengmeng.li@epfl.ch](mailto:mengmeng.li@epfl.ch)
 <br style="line-height: 10px" />
-📡 [College of Management of Technology](https://www.epfl.ch/schools/cdm/), EPFL, Switzerland
+📡 [Risk and Analytics Chair](https://www.epfl.ch/labs/rao/), EPFL, Switzerland
