@@ -11,18 +11,12 @@ nav_order: 3
 
 I work as a teaching assistant for the following courses:
 
-- **Spring 2025**: Optimal Decision Making; Applied Corporate and Industry Analysis  
+- **Applied Corporate and Industry Analysis**: Spring 2024, Spring 2025
 
-- **Fall 2024**: Convex Optimization  
+- **Applied Probability and Stochastic Processes**: Fall 2021, Fall 20222, Fall 2023 
 
-- **Spring 2024**: Applied Corporate and Industry Analysis; Negotiation Techniques  
+- **Convex Optimization**: Fall 2024 
 
-- **Fall 2023**: Applied Probability and Stochastic Processes  
+- **Negotiation Techniques**: Spring 2022, Spring 2023
 
-- **Spring 2023**: Negotiation Techniques  
-
-- **Fall 2022**: Applied Probability and Stochastic Processes  
-
-- **Spring 2022**: Negotiation Techniques  
-
-- **Fall 2021**: Applied Probability and Stochastic Processes
+- **Optimal Decision Making**: Spring 2025
