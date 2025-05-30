@@ -17,6 +17,6 @@ I work as a teaching assistant for the following courses:
 
 - **Convex Optimization**: Fall 2024 
 
-- **Negotiation Techniques**: Spring 2022, Spring 2023
+<!-- - **Negotiation Techniques**: Spring 2022, Spring 2023, Spring 2024 -->
 
 - **Optimal Decision Making**: Spring 2025
