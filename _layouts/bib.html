@@ -105,19 +105,21 @@
     <div class="periodical">
       {{ periodical | strip }}
     </div>
-    <div class="periodical">
-      {% if entry.note %}
+    {% if entry.note %}
+      <div class="note-line" style="margin: 0; padding: 0;">
+        <span style="display: inline-block; width: 1ch;">•</span>
         {{ entry.note | strip }}
-      {% endif %}
-    </div>
+      </div>
+    {% endif %}
     {% if entry.award %}
-      <ul class="award" style="list-style: none; padding-left: 0; margin: 0;">
-        <li style="margin-bottom: 0;">☆ {{ entry.award }}</li>
-      </ul>
+      <div class="award-line" style="margin: 0; padding: 0;">
+        <span style="display: inline-block; width: 1.5ch; text-align: center;">☆</span>
+        {{ entry.award | strip }}
+      </div>
     {% endif %}
 
     <!-- Links/Buttons -->
-    <div class="links">
+    <div class="links" style="margin-top: 0;">
       {%- if entry.abstract %}
       <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
       {%- endif %}
