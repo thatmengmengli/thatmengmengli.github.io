@@ -22,9 +22,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi! I am a PhD student at [EPFL](https://www.epfl.ch) advised by Prof. [Daniel Kuhn](https://people.epfl.ch/daniel.kuhn). Prior to my doctoral journey, I studied math at EPFL, NYU Shanghai, and NYU Courant.
+Hi! I am a PhD student at [EPFL](https://www.epfl.ch), where I am fortunate to be advised by Prof. [Daniel Kuhn](https://people.epfl.ch/daniel.kuhn). Prior to my doctoral journey, I received an M.Sc. degree in Mathematics from EPFL in 2021 and a B.Sc. degree in Honors Mathematics from NYU Shanghai in 2019.
 
-My research interests lie broadly in the interplay of statistics and optimization. I am particularly interested in **sequential decision making**, motivated by applications in finance and healthcare.
+My research focuses on statistical and computational efficiency of **sequential decision making**, inspired by applications in finance and healthcare.
 <a href="https://scholar.google.no/citations?user=CkOyq5kAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
 
 📧 [mengmeng.li@epfl.ch](mailto:mengmeng.li@epfl.ch)

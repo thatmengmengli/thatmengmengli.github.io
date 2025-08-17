@@ -84,7 +84,8 @@
     {% assign proceedings = "inproceedings,incollection" | split: ','%}
     {% assign thesis = "thesis,mastersthesis,phdthesis" | split: ','%}
     {% if entry.type == "article" -%}
-    {%- capture entrytype -%}<em>{{entry.journal}}</em>{%- endcapture -%}
+    {%- capture entrytype -%}<em>{{ entry.journal 
+      | replace: 'Major revision in', '</em>Major revision in<em>' | replace: 'Under review', '</em>Under review<em>'}}</em>{%- endcapture -%}
     {%- elsif proceedings contains entry.type -%}
     {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
     {%- elsif thesis contains entry.type -%}
@@ -105,8 +106,15 @@
       {{ periodical | strip }}
     </div>
     <div class="periodical">
-      {{ entry.note | strip }}
+      {% if entry.note %}
+        {{ entry.note | strip }}
+      {% endif %}
     </div>
+    {% if entry.award %}
+      <ul class="award" style="list-style: none; padding-left: 0; margin: 0;">
+        <li style="margin-bottom: 0;">☆ {{ entry.award }}</li>
+      </ul>
+    {% endif %}
 
     <!-- Links/Buttons -->
     <div class="links">

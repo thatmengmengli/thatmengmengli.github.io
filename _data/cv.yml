@@ -8,28 +8,28 @@
 #     - name: Languages
 #       value: English, German
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD in Operations Research
-      institution: EPFL
-      year: 2021-now
-      # description:
-      #   - Description 1.
-      #   - Description 2.
-      #   - title: Description 3.
-      #     contents:
-      #       - Sub-description 1.
-      #       - Sub-description 2.
-    - title: MSc in Mathematics
-      institution: EPFL
-      year: 2019-2021
-      # description:
-      #   - Description 1.
-      #   - Description 2.
-    - title: BSc in Honors Mathematics (minor in Data Science)
-      institution: NYU Shanghai and NYU Courant      <a href="https://engineering.nyu.edu/news/undergraduates-unravel-mysteries-time-space-and-fish-hydrodynamics-through-summer-research" title=":)" style="text-decoration:none;">🐣</a>
-      year: 2015-2019 
+# - title: Education
+#   type: time_table
+#   contents:
+#     - title: PhD in Operations Research
+#       institution: EPFL
+#       year: 2021-now
+#       # description:
+#       #   - Description 1.
+#       #   - Description 2.
+#       #   - title: Description 3.
+#       #     contents:
+#       #       - Sub-description 1.
+#       #       - Sub-description 2.
+#     - title: MSc in Mathematics
+#       institution: EPFL
+#       year: 2019-2021
+#       # description:
+#       #   - Description 1.
+#       #   - Description 2.
+#     - title: BSc in Honors Mathematics (minor in Data Science)
+#       institution: NYU Shanghai and NYU Courant      <a href="https://engineering.nyu.edu/news/undergraduates-unravel-mysteries-time-space-and-fish-hydrodynamics-through-summer-research" title=":)" style="text-decoration:none;">🐣</a>
+#       year: 2015-2019 
 
 
 # - title: Experience
@@ -95,7 +95,10 @@
 #         - Description 1.
 #         - Description 2.
 
-# - title: Other Interests
-#   type: list
-#   contents:
-#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+- title: Reviewing activities
+  type: list
+  contents:
+    - <u>Journals:</u> Management Science, Operations Research, SIAM Journal on Optimization, Journal of Machine Learning Research, Mathematical Programming, Operations Research Letters, Machine Learning, Journal of Global Optimization, Transactions on Machine Learning Research
+    - <u>Conferences :</u> NeurIPS (2023, 2024, 2025); ICML (2024, 2025); AISTATS (2023, 2024, 2025); ICLR (2023, 2024, 2025); AAAI (2024, 2025)
+
+- title:
