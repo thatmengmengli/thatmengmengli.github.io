@@ -1,5 +1,4 @@
 {%- assign img_path = include.path | remove: ".jpg" | remove: ".jpeg" | remove: ".png" | remove: ".tiff" | remove: ".gif" | remove: ".webp" -%}
-
 <figure>
   {% if include.path contains 'MengmengLi_pic' %}
   <link rel="preload" href="{{ include.path | relative_url }}" as="image">
