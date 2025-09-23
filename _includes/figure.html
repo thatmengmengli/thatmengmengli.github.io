@@ -25,7 +25,8 @@
       {% if include.alt %}alt="{{ include.alt }}"{% endif %}
       {% if include.title %}title="{{ include.title }}"{% endif %}
       {% if include.zoomable %}data-zoomable{% endif %}
-      onerror="this.onerror=null; $('.responsive-img-srcset').remove();"
+      onerror="this.onerror=null;var pic=this.closest('picture');if(pic){pic.querySelectorAll('source.responsive-img-srcset').forEach(function(n){n.remove();});}"
+      loading="lazy"
     />
   </picture>
 
