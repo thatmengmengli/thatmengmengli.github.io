@@ -9,7 +9,9 @@ layout: default
 {% if page._styles %}
 <!-- Page/Post style -->
 <style type="text/css">
-  {{ page._styles }}
+  {%- if page._styles -%}
+    {{ page._styles }}
+  {%- endif -%}
 </style>
 {% endif %}
 

@@ -12,8 +12,8 @@ nav_order: 6
 
 I wrote referee reports for the following venues:
 
-- **Journals**: Management Science, Operations Research, SIAM Journal on Optimization, Journal of Machine Learning Research, Mathematical Programming, Operations Research Letters, Machine Learning, Journal of Global Optimization, Transactions on Machine Learning Research
+- **Journals**: *Management Science*, *Operations Research*, *SIAM Journal on Optimization*, *Journal of Machine Learning Research*, *Mathematical Programming*, *Operations Research Letters*, *Machine Learning*, *Journal of Global Optimization*, *Transactions on Machine Learning Research*
 
-- **Conferences**: NeurIPS (2023, 2024, 2025); ICML (2024, 2025); AISTATS (2023, 2024, 2025); ICLR (2023, 2024, 2025); AAAI (2024, 2025)
+- **Conferences**: *NeurIPS* (2023-2025); *ICML* (2024-2025); *AISTATS* (2023-2025); *ICLR* (2023-2025); *AAAI* (2024-2025)
 
 I also serve as a [PhD Representative](https://www.epfl.ch/education/phd/edmt-management-of-technology/edmt-thesis-directors-committee-phd-student-representatives/#doctoral-program-committee) (2023-2025).

@@ -13,7 +13,7 @@ layout: default
 
         <article>
           {% if page.profile -%}
-          <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
+          <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}" style="margin: 0 0.5em 0.3em 0.8em; max-width: 30%; @media screen and (max-width: 576px) { margin: 0; padding: 0 0 0.3em 0.3em; max-width: 25%; }">
             {%- if page.profile.image %}
               {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
 
@@ -47,7 +47,7 @@ layout: default
 
           <!-- News -->
           {% if site.announcements.enabled -%}
-            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
+            <h2 style="padding: 0; margin-bottom: 0.5em;">news</h2>
             {%- include news.html limit=true %}
           {%- endif %}
 
@@ -76,6 +76,11 @@ layout: default
 
             </div>
           {%- endif %} -->
+
+          <blockquote style="font-size:0.95em; color:#666; margin-top:2em; margin-bottom:0.5em; font-style:italic; text-align:right; border-left:none; border-right:2px solid #eee; padding-left:0; padding-right:1em;">
+            We are but whirlpools in a river of ever-flowing water.<br>
+            <span style="font-size:0.92em; color:#888;">— Norbert Wiener</span>
+          </blockquote>
         </article>
 
 </div>
