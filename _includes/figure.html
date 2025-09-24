@@ -1,4 +1,4 @@
-{%- assign img_path = include.path | remove: ".jpg" | remove: ".jpeg" | remove: ".png" | remove: ".tiff" | remove: ".gif" -% | remove: ".webp" -%}
+{%- assign img_path = include.path | remove: ".jpg" | remove: ".jpeg" | remove: ".png" | remove: ".tiff" | remove: ".gif" | remove: ".webp" -%}
 
 <figure>
   <picture>
@@ -13,7 +13,7 @@
       {% if include.sizes %} sizes="{{include.sizes}}" {% else %} sizes="95vw" {% endif %}
       type="image/webp"/>
     {% endif %}
-    <img>
+    <img
       src="{% if include.cache_bust %}{{ include.path | relative_url | bust_file_cache }}{% else %}{{ include.path | relative_url }}{% endif %}"
       {% if include.class %}class="{{ include.class }}"{% endif %}
       {% if include.width %}width="{{ include.width }}"{% else %}width="100%"{% endif %}
