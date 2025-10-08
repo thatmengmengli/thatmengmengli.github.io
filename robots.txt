@@ -1,10 +1,7 @@
 ---
 permalink: /robots.txt
 ---
-User-agent: Googlebot
-Disallow: /assets/
-User-agent: GoogleScholar
-Disallow: /assets/
-User-agent: Google Scholar
-Disallow: /assets/
+User-agent: *
+Disallow: /
+
 Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
