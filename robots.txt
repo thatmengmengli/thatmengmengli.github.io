@@ -2,5 +2,6 @@ User-agent: Googlebot
 Disallow: /assets/
 User-agent: GoogleScholar
 Disallow: /assets/
-
+User-agent: Google Scholar
+Disallow: /assets/
 Sitemap: https://thatmengmengli.github.io/sitemap.xml
