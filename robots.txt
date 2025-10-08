@@ -1,4 +1,6 @@
-User-agent: *
-Disallow:
+User-agent: Googlebot
+Disallow: /assets/
+User-agent: GoogleScholar
+Disallow: /assets/
 
 Sitemap: https://thatmengmengli.github.io/sitemap.xml
