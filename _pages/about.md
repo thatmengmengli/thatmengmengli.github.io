@@ -30,3 +30,10 @@ My research focuses on developing statistically and computationally efficient me
 📧 [mengmeng.li@epfl.ch](mailto:mengmeng.li@epfl.ch)
 <br style="line-height: 10px" />
 📡 [Risk Analytics and Optimization Lab](https://www.epfl.ch/labs/rao/), EPFL, Switzerland
+
+<!-- Maintainer note: If you see "load metadata for docker.io/library/ruby:slim" when starting the Jekyll Docker service, try one of the following:
+  - Pin an explicit Ruby image tag in your Dockerfile/docker-compose (e.g. `ruby:3.2-slim`).
+  - Run `docker pull ruby:3.2-slim` to diagnose; run `docker login` to raise Docker Hub quota.
+  - Check network/DNS/proxy settings or use a registry mirror.
+  - As a workaround, build/run the site locally (bundle install) instead of using Docker.
+-->
