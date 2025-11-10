@@ -16,6 +16,6 @@ I wrote referee reports for the following venues:
 
 - **Conferences**: *NeurIPS* ([Top Reviewer 2025](https://neurips.cc/Conferences/2025/ProgramCommittee#top-reviewer)); *ICML*; *AISTATS*; *ICLR*; *AAAI*
 
-I also serve as a [PhD Representative](https://www.epfl.ch/education/phd/edmt-management-of-technology/edmt-thesis-directors-committee-phd-student-representatives/#doctoral-program-committee) (2023-2025).
+I also served as a PhD Representative (2023-2025).
 
 <!-- Maintainer note: If you see "No valid parser for XML (Feedjira::NoParserAvailable)" when fetching external posts, ensure a parser gem is installed (e.g. add `gem "nokogiri"` to the site's Gemfile and run `bundle install` or rebuild the Docker image). -->
