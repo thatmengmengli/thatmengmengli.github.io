@@ -12,7 +12,7 @@ nav_order: 6
 
 I wrote referee reports for the following venues:
 
-- **Journals**: *Mathematical Programming*, *Management Science*, *Operations Research*, *SIAM Journal on Optimization*, *Journal of Machine Learning Research*, *Operations Research Letters*, *Discrete Optimization*, *Machine Learning*, *Journal of Global Optimization*, *Transactions on Machine Learning Research*
+- **Journals**: *Mathematical Programming* (Meritorious Service Award 2025), *Management Science*, *Operations Research*, *SIAM Journal on Optimization*, *Journal of Machine Learning Research*, *Operations Research Letters*, *Discrete Optimization*, *Machine Learning*, *Journal of Global Optimization*, *Transactions on Machine Learning Research*
 
 - **Conferences**: *NeurIPS* ([Top Reviewer 2025](https://neurips.cc/Conferences/2025/ProgramCommittee#top-reviewer)); *ICML*; *AISTATS*; *ICLR*; *AAAI*
 
