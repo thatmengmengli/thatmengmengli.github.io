@@ -18,8 +18,9 @@ I wrote referee reports for the following venues:
 
 I also served as a PhD Representative (2023-2025).
 
-I have received the following recognitions for my service:
+*Recognitions for my service:*
 
-- Mathematical Programming 2025 Meritorious Service Award
-- NeurIPS 2025 Top Reviewer Award
+☆ Mathematical Programming 2025 Meritorious Service Award
+
+☆ NeurIPS 2025 Top Reviewer Award
 <!-- Maintainer note: If you see "No valid parser for XML (Feedjira::NoParserAvailable)" when fetching external posts, ensure a parser gem is installed (e.g. add `gem "nokogiri"` to the site's Gemfile and run `bundle install` or rebuild the Docker image). -->

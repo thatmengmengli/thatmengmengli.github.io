@@ -20,3 +20,7 @@ I work as a teaching assistant for the following courses:
 <!-- - **Negotiation Techniques**: Spring 2022, Spring 2023, Spring 2024 -->
 
 - **Optimal Decision Making**: Spring 2025
+
+*Recognition for my teaching:*
+
+☆ Best Teaching Assistant Award at MTE section, EPFL, 2025
