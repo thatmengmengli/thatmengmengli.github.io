@@ -12,10 +12,14 @@ nav_order: 6
 
 I wrote referee reports for the following venues:
 
-- **Journals**: *Mathematical Programming* (Meritorious Service Award 2025), *Management Science*, *Operations Research*, *SIAM Journal on Optimization*, *Journal of Machine Learning Research*, *Operations Research Letters*, *Discrete Optimization*, *Machine Learning*, *Journal of Global Optimization*, *Transactions on Machine Learning Research*
+- **Journals**: *Mathematical Programming*, *Mathematics of Operations Research*, *Management Science*, *Operations Research*, *SIAM Journal on Optimization*, *Journal of Machine Learning Research*, *Operations Research Letters*, *Discrete Optimization*, *Machine Learning*, *Journal of Global Optimization*, *Transactions on Machine Learning Research*
 
-- **Conferences**: *NeurIPS* ([Top Reviewer 2025](https://neurips.cc/Conferences/2025/ProgramCommittee#top-reviewer)); *ICML*; *AISTATS*; *ICLR*; *AAAI*
+- **Conferences**: *NeurIPS*; *ICML*; *AISTATS*; *ICLR*; *AAAI*
 
 I also served as a PhD Representative (2023-2025).
 
+I have received the following recognitions for my service:
+
+- Mathematical Programming 2025 Meritorious Service Award
+- NeurIPS 2025 Top Reviewer Award
 <!-- Maintainer note: If you see "No valid parser for XML (Feedjira::NoParserAvailable)" when fetching external posts, ensure a parser gem is installed (e.g. add `gem "nokogiri"` to the site's Gemfile and run `bundle install` or rebuild the Docker image). -->
