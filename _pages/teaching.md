@@ -23,4 +23,4 @@ I work as a teaching assistant for the following courses:
 
 *Recognition for my teaching:*
 
-☆ Best Teaching Assistant Award, Management, Technology & Entrepreneurship Section, EPFL, 2025
+☆ Best Teaching Assistant Award, Management of Technology & Entrepreneurship Section, EPFL, 2025
