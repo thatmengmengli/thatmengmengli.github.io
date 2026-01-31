@@ -18,7 +18,7 @@ I wrote referee reports for the following venues:
 
 I also served as a PhD Representative (2023-2025).
 
-*Recognitions for my service:*
+*Recognition for my service:*
 
 ☆ Mathematical Programming 2025 Meritorious Service Award
 
