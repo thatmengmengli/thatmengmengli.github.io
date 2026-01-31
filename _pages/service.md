@@ -14,7 +14,7 @@ I wrote referee reports for the following venues:
 
 - **Journals**: *Mathematical Programming*, *Mathematics of Operations Research*, *Management Science*, *Operations Research*, *SIAM Journal on Optimization*, *Journal of Machine Learning Research*, *Operations Research Letters*, *Discrete Optimization*, *Machine Learning*, *Journal of Global Optimization*, *Transactions on Machine Learning Research*
 
-- **Conferences**: *NeurIPS*; *ICML*; *AISTATS*; *ICLR*; *AAAI*
+- **Conferences**: *NeurIPS*; *ICML*; *ICLR*; *AISTATS*; *AAAI*
 
 I also served as a PhD Representative (2023-2025).
 
